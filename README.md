@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This repository has moved.** The processing core (Altair) now lives in
+> [`altair-observatory-system/processing`](https://github.com/cecomp64/altair-observatory-system/tree/main/processing),
+> merged with its full history. This repository is archived and read-only; open issues and
+> pull requests there.
+
 # altair-pre-processor
 
 Fully automated, event-triggered astrophotography pre-processing: raw frames from a night's
